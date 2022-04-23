@@ -4,7 +4,7 @@ html:
 toc:
   depth_from: 2
   depth_to: 6
-jprint_background: true   
+print_background: true   
 ---
 
 # 富嘉花园36号楼公告栏
