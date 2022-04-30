@@ -158,51 +158,66 @@ title: 富嘉花园36号楼公告栏
 
 ### 🛒 团购进行中 ongoing groupon
 
-!!! bug 1️⃣ ALDI小卖部，零售预订, 🎁 预计到货: 20220430
-![](images/20220430_ALDI.png)
+!!! bug 1️⃣ 千味早餐（3种套餐98/78/68）, 🎁 预计到货: 20220501
+    ![](images/20220428_breakfast_qianwei.png)
 
-!!! bug 2️⃣ 潮汕海鲜套餐288元/份, 🎁 预计到货: 20220430
-    ![](images/20220427_seafood.png)
+!!! bug 2️⃣ 青浦蔬菜 65/10斤, 🎁 预计到货: 20220501
+    ![](images/20220429_vegetable.png)
 
+!!! bug 3️⃣ 巴黎贝甜盲盒套餐?元/份, 🎁 预计到货: 20220502
+    ![](images/20220429_bread.png)
 
-!!! bug 4️⃣ 清美早餐 69/份, 🎁 预计到货: 20220430
-    ![](images/20220429_breakfast_qingmei.png)
-
-!!! question 5️⃣ 黄油（2种规格：安佳/沃特堡）, 🎁 沃特堡预计到货🚫
+!!! question 4️⃣ 黄油（2种规格：安佳/沃特堡）, 🎁 沃特堡预计到货🚫
     <br>
 
     - 20220429 安佳 was delivered.
 
     ![](images/20220429_butter.png)
 
+!!! question 5️⃣ ALDI佳沛金奇异果249/(120g*27枚) 【预订】, 🎁 预计到货🚫
+    ![](images/20220427_kiwi.png)
 
-!!! question 6️⃣ 
+!!! question 6️⃣ ALDI鸡蛋 17.6/盒【预订】, 🎁 预计到货🚫
+    | 20220430-2 ALDI鸡蛋17.5元/盒，预订 |   |      |
+    |------|---|------|
+    | 401  | 2 | 35   |
+    | 1002 | 1 | 17.5 |
+    | 总计  | 3 | 52.5 |
+
+!!! question 7️⃣ ALDI小卖部【零售预订】, 🎁 剩余预计到货🚫
+    ![](images/20220428_aldi_retail.png)
+
+!!! question 8️⃣ OATLY燕麦奶（2种套餐）, 🎁 剩余预计到货🚫
+    | 20220429-2 OATLY燕麦奶（2种套餐） |      |     |
+    |---------------------------|------|-----|
+    | 36号楼房号                    | 咖啡大师 | 巧克力 |
+    |                           | 139  | 125 |
+    | 502                       | 1    | 1   |
 
 
-!!! question 7️⃣ 
-
-
-!!! question 8️⃣ 
-
-
-
-
-
-### 💖 即将上线的团
 
 ### 📊 已结束的团
 
-!!! bug 3️⃣ 南汇玉姑甜瓜100元/10斤, 🎁 预计到货: 20220430
+!!! note 南汇玉姑甜瓜100元/10斤, 🎁 到货: 20220430
     ![](images/20220427_melon.png)
 
 
-!!! bug 1️⃣ 清风纸类套餐（4种套餐）, 🎁 预计到货: 20220430
+!!! note 清风纸类套餐（4种套餐）, 🎁 到货: 20220430
     套餐1）：清风抽纸24包+清风卷纸27卷，¥119元
     套餐2）：怡丽卫生巾日夜套装58片+安睡裤12片，¥100元
     套餐3）：清风酒精杀菌湿巾8包 (40抽/包），¥119元
     套餐4）：清风厨房卷纸12卷+绵柔洗脸巾3卷，¥80元
     
     ![](images/20220427_paper.png)
+
+!!! note ALDI小卖部，零售预订, 🎁 部分到货: 20220430
+    ![](images/20220430_ALDI.png)
+
+!!! note 潮汕海鲜套餐288元/份, 🎁 到货: 20220430
+    ![](images/20220427_seafood.png)
+
+!!! note  清美早餐 69/份, 🎁 到货: 20220430
+    ![](images/20220429_breakfast_qingmei.png)
 
 
 买菜流程
@@ -221,7 +236,5 @@ style C fill: lightgreen
 https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
 
 https://shd101wyy.github.io/markdown-preview-enhanced/#/
-### 4月30号
 
-[link to another link](./index2.html)
 
